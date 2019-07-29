@@ -1,0 +1,84 @@
+,rule_id,inchikey,chembl_id,predicate_id,ref_id,compound_id,object_id,object_external_id,object_name,predicate_name,ref_name
+0,7363,LNEPOXFFQSENCJ-UHFFFAOYSA-N,CHEMBL54,18,22,126,198,BE0000756,D(2) dopamine receptor,antagonist,drugbank:targets:human
+1,117580,LNEPOXFFQSENCJ-UHFFFAOYSA-N,CHEMBL54,69,47,126,5468,CHEMBL224,Serotonin 2a (5-HT2a) receptor,antagonist,chembl:mechs
+2,117581,LNEPOXFFQSENCJ-UHFFFAOYSA-N,CHEMBL54,76,47,126,5626,CHEMBL2331075,D2-like dopamine receptor,inverse agonist,chembl:mechs
+3,150244,LNEPOXFFQSENCJ-UHFFFAOYSA-N,CHEMBL54,110,160,126,8622,Peroxisome proliferator-activated receptor (PPAR) gamma,Peroxisome proliferator-activated receptor (PPAR) gamma,targets,libraries:prestwick:targets
+4,7215,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,18,22,162,198,BE0000756,D(2) dopamine receptor,antagonist,drugbank:targets:human
+5,7216,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,18,22,162,199,BE0000451,5-hydroxytryptamine receptor 2A,antagonist,drugbank:targets:human
+6,117592,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,69,47,162,5468,CHEMBL224,Serotonin 2a (5-HT2a) receptor,antagonist,chembl:mechs
+7,117593,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,69,47,162,5518,CHEMBL217,Dopamine D2 receptor,antagonist,chembl:mechs
+8,130609,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5577,CHEMBL339,Dopamine D2 receptor,reported_activity,chembl:activity
+9,130610,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5466,CHEMBL273,Serotonin 1a (5-HT1a) receptor,reported_activity,chembl:activity
+10,130611,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5581,CHEMBL2093870,Serotonin 2 (5-HT2) receptor,reported_activity,chembl:activity
+11,130612,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5520,CHEMBL219,Dopamine D4 receptor,reported_activity,chembl:activity
+12,130613,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5472,CHEMBL3371,Serotonin 6 (5-HT6) receptor,reported_activity,chembl:activity
+13,130614,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5518,CHEMBL217,Dopamine D2 receptor,reported_activity,chembl:activity
+14,130615,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5571,CHEMBL1907610,Adrenergic receptor alpha-1,reported_activity,chembl:activity
+15,130616,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5587,CHEMBL2093864,Adrenergic receptor alpha-2,reported_activity,chembl:activity
+16,130617,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5576,CHEMBL3155,Serotonin 7 (5-HT7) receptor,reported_activity,chembl:activity
+17,130618,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5595,CHEMBL1907609,Muscarinic acetylcholine receptor,reported_activity,chembl:activity
+18,130619,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5603,CHEMBL2093868,Dopamine receptor,reported_activity,chembl:activity
+19,130620,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5519,CHEMBL234,Dopamine D3 receptor,reported_activity,chembl:activity
+20,130621,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5579,CHEMBL322,Serotonin 2a (5-HT2a) receptor,reported_activity,chembl:activity
+21,130622,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5570,CHEMBL2095200,Serotonin 2 (5-HT2) receptor,reported_activity,chembl:activity
+22,130623,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5578,CHEMBL2967,Dopamine D1 receptor,reported_activity,chembl:activity
+23,130624,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5582,CHEMBL265,Dopamine D1 receptor,reported_activity,chembl:activity
+24,130625,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5584,CHEMBL3361,Dopamine D4 receptor,reported_activity,chembl:activity
+25,130626,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5583,CHEMBL3138,Dopamine D3 receptor,reported_activity,chembl:activity
+26,130627,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5585,CHEMBL4701,Histamine H1 receptor,reported_activity,chembl:activity
+27,130628,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,6251,CHEMBL2096970,Dopamine receptor,reported_activity,chembl:activity
+28,130629,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5517,CHEMBL2056,Dopamine D1 receptor,reported_activity,chembl:activity
+29,130630,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5468,CHEMBL224,Serotonin 2a (5-HT2a) receptor,reported_activity,chembl:activity
+30,130631,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5470,CHEMBL225,Serotonin 2c (5-HT2c) receptor,reported_activity,chembl:activity
+31,130632,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5589,CHEMBL2095158,Adrenergic receptor alpha-2,reported_activity,chembl:activity
+32,130633,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5591,CHEMBL324,Serotonin 2c (5-HT2c) receptor,reported_activity,chembl:activity
+33,130634,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5474,CHEMBL287,Sigma opioid receptor,reported_activity,chembl:activity
+34,130635,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5580,CHEMBL2095159,Serotonin 1 (5-HT1) receptor,reported_activity,chembl:activity
+35,130636,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5588,CHEMBL2094251,Adrenergic receptor alpha-1,reported_activity,chembl:activity
+36,130637,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5597,CHEMBL214,Serotonin 1a (5-HT1a) receptor,reported_activity,chembl:activity
+37,130638,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5538,CHEMBL216,Muscarinic acetylcholine receptor M1,reported_activity,chembl:activity
+38,130639,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5527,CHEMBL231,Histamine H1 receptor,reported_activity,chembl:activity
+39,130640,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5598,CHEMBL3998,Dopamine D2 receptor,reported_activity,chembl:activity
+40,130641,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5586,CHEMBL276,Muscarinic acetylcholine receptor M1,reported_activity,chembl:activity
+41,130642,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5552,CHEMBL240,HERG,reported_activity,chembl:activity
+42,130643,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,6056,CHEMBL3427,Dopamine D2 receptor,reported_activity,chembl:activity
+43,130644,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5574,CHEMBL3223,Serotonin 7 (5-HT7) receptor,reported_activity,chembl:activity
+44,130645,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5605,CHEMBL304,Norepinephrine transporter,reported_activity,chembl:activity
+45,130646,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5607,CHEMBL3759,Histamine H4 receptor,reported_activity,chembl:activity
+46,130647,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5473,CHEMBL228,Serotonin transporter,reported_activity,chembl:activity
+47,130648,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5599,CHEMBL1850,Dopamine D5 receptor,reported_activity,chembl:activity
+48,130649,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5486,CHEMBL319,Alpha-1a adrenergic receptor,reported_activity,chembl:activity
+49,130650,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5487,CHEMBL315,Alpha-1b adrenergic receptor,reported_activity,chembl:activity
+50,130651,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5488,CHEMBL223,Alpha-1d adrenergic receptor,reported_activity,chembl:activity
+51,130652,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5489,CHEMBL1867,Alpha-2a adrenergic receptor,reported_activity,chembl:activity
+52,130653,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5490,CHEMBL1942,Alpha-2b adrenergic receptor,reported_activity,chembl:activity
+53,130654,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5491,CHEMBL1916,Alpha-2c adrenergic receptor,reported_activity,chembl:activity
+54,130655,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5495,CHEMBL222,Norepinephrine transporter,reported_activity,chembl:activity
+55,130656,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5528,CHEMBL1941,Histamine H2 receptor,reported_activity,chembl:activity
+56,130657,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5539,CHEMBL211,Muscarinic acetylcholine receptor M2,reported_activity,chembl:activity
+57,130658,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5540,CHEMBL245,Muscarinic acetylcholine receptor M3,reported_activity,chembl:activity
+58,130659,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5541,CHEMBL1821,Muscarinic acetylcholine receptor M4,reported_activity,chembl:activity
+59,130660,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5542,CHEMBL2035,Muscarinic acetylcholine receptor M5,reported_activity,chembl:activity
+60,130661,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5467,CHEMBL3459,Serotonin 1b (5-HT1b) receptor,reported_activity,chembl:activity
+61,130662,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5469,CHEMBL1833,Serotonin 2b (5-HT2b) receptor,reported_activity,chembl:activity
+62,130663,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5611,CHEMBL2111342,Dopamine receptor D2 and D3,reported_activity,chembl:activity
+63,130664,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5604,CHEMBL1899,Serotonin 3a (5-HT3a) receptor,reported_activity,chembl:activity
+64,130665,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5593,CHEMBL327,Alpha-2a adrenergic receptor,reported_activity,chembl:activity
+65,130666,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5614,CHEMBL229,Alpha-1a adrenergic receptor,reported_activity,chembl:activity
+66,130667,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,89,132,162,5616,CHEMBL3707465,Histone H1.0,reported_activity,chembl:activity
+67,149450,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,94,158,162,8551,dopamine d4,dopamine d4,antagonist,libraries:biomol:targets
+68,149451,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,94,158,162,8552,dopamine D2,dopamine D2,antagonist,libraries:biomol:targets
+69,149614,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,94,158,162,8561,serotonin 5-HT 1c,serotonin 5-HT 1c,antagonist,libraries:biomol:targets
+70,150487,QZUDBNBUXVUHMW-UHFFFAOYSA-N,CHEMBL42,110,160,162,8632,Adrenergic receptor beta-2,Adrenergic receptor beta-2,targets,libraries:prestwick:targets
+71,8054,YQEZLKZALYSWHR-UHFFFAOYSA-N,CHEMBL742,18,22,485,267,BE0000641,"Glutamate receptor ionotropic, NMDA 3A",antagonist,drugbank:targets:human
+72,100191,YQEZLKZALYSWHR-UHFFFAOYSA-N,CHEMBL742,34,22,485,258,BE0000311,5-hydroxytryptamine receptor 3A,potentiator,drugbank:targets:human
+73,100192,YQEZLKZALYSWHR-UHFFFAOYSA-N,CHEMBL742,18,22,485,3831,BE0003438,Alpha-7 nicotinic cholinergic receptor subunit,antagonist,drugbank:targets:human
+74,100193,YQEZLKZALYSWHR-UHFFFAOYSA-N,CHEMBL742,10,22,485,260,BE0002180,Cholinesterase,inhibitor,drugbank:targets:human
+75,100194,YQEZLKZALYSWHR-UHFFFAOYSA-N,CHEMBL742,10,22,485,3832,BE0000067,"Nitric oxide synthase, brain",inhibitor,drugbank:targets:human
+76,151123,PCTRYMLLRKWXGF-UHFFFAOYSA-N,CHEMBL84567,110,160,554,8618,Adrenergic receptor beta,Adrenergic receptor beta,targets,libraries:prestwick:targets
+77,117659,NOJMTMIRQRDZMT-GSPXQYRGSA-N,CHEMBL493,71,47,750,5626,CHEMBL2331075,D2-like dopamine receptor,agonist,chembl:mechs
+78,149445,NOJMTMIRQRDZMT-GSPXQYRGSA-N,CHEMBL493,96,158,750,8511,dopamine,dopamine,agonist,libraries:biomol:targets
+79,7706,ADEBPBSSDYVVLD-UHFFFAOYSA-N,CHEMBL502,10,22,2017,259,BE0000426,Acetylcholinesterase,inhibitor,drugbank:targets:human
+80,151379,ADEBPBSSDYVVLD-UHFFFAOYSA-N,CHEMBL502,110,160,2017,8649,Acetylcholinesterase,Acetylcholinesterase,targets,libraries:prestwick:targets
+81,151380,ADEBPBSSDYVVLD-UHFFFAOYSA-N,CHEMBL502,110,160,2017,8650,Butyrylcholinesterase,Butyrylcholinesterase,targets,libraries:prestwick:targets
+82,118387,YECIFGHRMFEPJK-UHFFFAOYSA-N,CHEMBL79,75,47,34294,5625,CHEMBL2331043,Sodium channel alpha subunit,blocker,chembl:mechs
